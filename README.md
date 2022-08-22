@@ -1,5 +1,7 @@
 # The Spoken corpus of Meadow Mari Data Repository
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7015552.svg)](https://doi.org/10.5281/zenodo.7015552)
+
 This repository is the place where the data from the [Spoken corpus of Meadow Mari](http://lingconlab.ru/spoken_meadow_mari/) (as spoken
 in the village of Staryj Toryal, Novyj Torjal district, Mari El Republic, Russia) is curated. This repository also provides an alternative way to access corpus data locally. The data is stored in `data_oral_meadow-mari.csv` with 25795 rows and 14 columns:
 
